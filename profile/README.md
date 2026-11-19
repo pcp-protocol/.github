@@ -7,6 +7,7 @@ It is independent, free under Apache 2.0, and anyone can implement it without as
 - **Site:** [pcp-protocol.github.io/pcp](https://pcp-protocol.github.io/pcp/)
 - **Conformance suite:** [conformance/](https://github.com/pcp-protocol/pcp/tree/main/conformance)
 - **Roadmap:** [ROADMAP.md](https://github.com/pcp-protocol/pcp/blob/main/ROADMAP.md), version by version, with where to help
+- **Project board:** [what is in progress](https://github.com/orgs/pcp-protocol/projects/1)
 - **Latest release:** [v0.3](https://github.com/pcp-protocol/pcp/releases/latest)
 - **How decisions are made:** [GOVERNANCE.md](https://github.com/pcp-protocol/pcp/blob/main/GOVERNANCE.md)
 
